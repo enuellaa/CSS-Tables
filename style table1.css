@@ -6,6 +6,7 @@ span {
     background-color: lightgreen;
     color: white;
     height: 90px;
+    text-align: center;
 }
 
 #tablee {
@@ -18,14 +19,3 @@ tr:hover {
     border-left: 2px solid black;
 }
 
-.th1 {
-    text-align: center;
-}
-
-.th2 {
-    text-align: center;
-}
-
-.th3 {
-    text-align: center;
-}
